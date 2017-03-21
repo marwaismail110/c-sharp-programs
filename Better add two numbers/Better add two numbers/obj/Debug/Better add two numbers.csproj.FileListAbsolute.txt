@@ -1,0 +1,5 @@
+c:\users\farhe\onedrive\documents\visual studio 2015\Projects\Better add two numbers\Better add two numbers\bin\Debug\Better add two numbers.exe.config
+c:\users\farhe\onedrive\documents\visual studio 2015\Projects\Better add two numbers\Better add two numbers\bin\Debug\Better add two numbers.exe
+c:\users\farhe\onedrive\documents\visual studio 2015\Projects\Better add two numbers\Better add two numbers\bin\Debug\Better add two numbers.pdb
+c:\users\farhe\onedrive\documents\visual studio 2015\Projects\Better add two numbers\Better add two numbers\obj\Debug\Better add two numbers.exe
+c:\users\farhe\onedrive\documents\visual studio 2015\Projects\Better add two numbers\Better add two numbers\obj\Debug\Better add two numbers.pdb
